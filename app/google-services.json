@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "662132223654",
+    "firebase_url": "https://lifeofsmile-bfc7d.firebaseio.com",
+    "project_id": "lifeofsmile-bfc7d",
+    "storage_bucket": "lifeofsmile-bfc7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662132223654:android:8c600833840b99d32fce67",
+        "android_client_info": {
+          "package_name": "com.example.life_of_smile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662132223654-djdfoj1jii7f2vui1f4jtrtl6ot6thc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.life_of_smile",
+            "certificate_hash": "8bd983d03ce74fee86fd1794593b8555a6b440a1"
+          }
+        },
+        {
+          "client_id": "662132223654-4mirniraiquc5i2gmepql8pjg92qv478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0EdDijRq7-hkugriu8l7Gr6-817D8XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662132223654-4mirniraiquc5i2gmepql8pjg92qv478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
